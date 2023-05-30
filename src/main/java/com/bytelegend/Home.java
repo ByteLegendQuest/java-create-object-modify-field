@@ -13,7 +13,7 @@ public class Home {
     // Returns that object.
     public static Cat newCat(String name) {
         Cat tom = new Cat();
-        cat.name = name;
+        tom.name = name;
         return tom;
     }
 }
